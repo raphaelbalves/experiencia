@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(248, 242, 227);
+}
+.cor-de-fundo {
+    background-color: #2a313b;
+    color: white;
+    width: 65%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+   
+}
+
+#centralizar-topo {
+    
+}
+
+::-webkit-input-placeholder {
+    color: white;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    color: white;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    color: white;  
+ }
+ 
+ :-ms-input-placeholder {  
+    color: white;  
+ }
+
+input {
+    background-color: #2a313b;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+#signup {
+    width: 40%;
+    font-size: 15px;
+    font-weight: normal;
+
+}
+
+#login {
+    background-color: gray;
+    width: 40%;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 25px;
+}
+#password {
+    width: 91%;
+}
+
+#email {
+    width: 91%;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: green;
+    width: 95%;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
